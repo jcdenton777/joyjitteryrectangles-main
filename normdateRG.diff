@@ -1,0 +1,13 @@
+--- /home/neonrcg/Desktop/03-normdate	2016-09-14 17:19:22.000000000 -0700
++++ /home/neonrcg/GitHub/joyjitteryrectangles-main/normdateRG.sh	2021-12-23 06:03:45.453621157 -0800
+@@ -18,8 +18,8 @@
+   return 0
+ }
+ 
+-# BEGIN MAIN SCRIPT–-DELETE BELOW THIS LINE IF YOU WANT TO 
+-#   INCLUDE THIS IN OTHER SCRIPTS.
++# BEGIN MAIN SCRIPT--DELETE OR COMMENT OUT EVERYTHING BELOW THIS LINE IF
++#   YOU WANT TO INCLUDE IN OTHER SCRIPTS.
+ # =================
+ # Input validation
+ #if [ $# -ne 3 ] ; then
