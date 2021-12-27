@@ -1,2 +1,0 @@
-# Nmap 7.92 scan initiated Mon Dec 13 04:53:03 2021 as: /snap/nmap/2536/bin/nmap -sT -p 3306 -oG MySQLscan 192.168.0.181
-# Nmap done at Mon Dec 13 04:53:05 2021 -- 1 IP address (0 hosts up) scanned in 2.45 seconds
